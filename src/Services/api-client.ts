@@ -1,6 +1,4 @@
 import axios, { AxiosRequestConfig } from "axios"
-import { Genre } from "../Custom hooks/useGenres";
-import { Platform } from "../Custom hooks/usePlatform";
 
 
 export interface FetchResponse<T> {
